@@ -13,5 +13,5 @@ spec:
         paths:
           - path: /*
             backend:
-              serviceName: ecsdemo-nodejs
+              serviceName: ecsdemo-nodejs 
               servicePort: 80

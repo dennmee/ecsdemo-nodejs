@@ -1,0 +1,9 @@
+namePrefix: dennes-
+
+namespace: default
+
+resources:
+  - deployment.yaml
+  - service.yaml
+  - ingress.yaml
+  
